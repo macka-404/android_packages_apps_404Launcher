@@ -67,7 +67,7 @@
         android:summary="@string/dock_search_summary"
         android:defaultValue="true" />
 
-    <androidx.preference.PreferenceScreen
+    <Preference
         android:key="pref_developer_options"
         android:persistent="false"
         android:title="@string/developer_options_title"
